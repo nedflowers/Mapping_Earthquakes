@@ -33,5 +33,18 @@ Mapping_Multiple_Points/
 Mapping_single_Points/
 Simple_Leaflet_Map/
 
+#VS CODE
+.vscode
+
+#DS_store
+.DS_Store
+
+# Files
+logicStep1.js
+logicStep2.js
+logicStep3.js
+logicStep4.js
+logicStep5.js
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
