@@ -45,6 +45,7 @@ logicStep2.js
 logicStep3.js
 logicStep4.js
 logicStep5.js
+cities.js
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
