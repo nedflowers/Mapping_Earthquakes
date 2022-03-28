@@ -6,3 +6,6 @@ Use the JavaScript and the D3.js library to retrieve the coordinates and magnitu
 
 ## Worldwide Eathquakes Past 7-Days
 ![Earthquake-theMap](https://user-images.githubusercontent.com/95272294/160313784-5f24a563-ac70-4af1-9230-e0ca22af208b.jpg)
+
+### Link to Earthquake Map:
+https://github.com/nedflowers/Mapping_Earthquakes/settings/pages
